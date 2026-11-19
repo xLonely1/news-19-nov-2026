@@ -3,7 +3,7 @@
 // The image is drawn programmatically (Python PIL, DejaVu fonts): masthead with
 // the date, a lead panel on the GTA VI global rollout, and five panels — the
 // ICJ Rohingya ruling, Voyager 1's light-day, the APEC trilateral in Shenzhen,
-// Australia's sanctions on Israeli settlements, and the Berlin Ukraine meeting.
+// Cyclone Akvan bearing down on India's east coast, and the Berlin Ukraine meeting.
 // Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for /output:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
 
